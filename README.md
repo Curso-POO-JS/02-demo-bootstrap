@@ -1,4 +1,4 @@
-<img src="img/lotto.jpg">
+<img src="img/lotto.png">
 
 # Demo Bootstrap
 
